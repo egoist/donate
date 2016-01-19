@@ -4,7 +4,7 @@
 
 **WHAT GOOD WILL MY MONEY DO?**
 
-Your money will help me (now a college student) get through school.
+Your money will help me (now a college student) get through school.  
 Your money will also be spent in buying coffee, cola and some other foods or drinks to make me feel energetic when coding.
 
 ## License
