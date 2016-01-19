@@ -1,0 +1,31 @@
+<style>
+  .paypal-form {
+    margin-top: 20px;
+    .submit-donate {
+      background-color: white;
+      border: 1px solid #ccc;
+      border-radius: 2px;
+      padding: 8px 20px;
+      font-size: 16px;
+      outline: none;
+      cursor: pointer;
+      &:active {
+        box-shadow: inset 0 0 5px #ddd;
+      }
+      &:hover {
+        box-shadow: 0 0 0 3px rgba(48,144,228,.1);
+        border-color: #4078c0;
+        color: #4078c0;
+      }
+    }
+  }
+</style>
+
+<template>
+  <form target="_blank" class="paypal-form" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+    ">
+    <button type="submit" class="submit-donate">Donate $10 via <em>PayPal</em></button>
+  </form>
+</template>

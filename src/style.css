@@ -1,0 +1,40 @@
+body {
+  font: 14px/1.4 Helvetica, arial, serif;
+  background-color: #f9f9f9;
+}
+
+body, h1, h2, h3, h4 {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0px auto;
+  max-width: 600px;
+}
+
+a {
+  color: #4078c0;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.form-control {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  outline: none;
+}
+
+.form-group {
+  margin-bottom: 10px;
+  label {
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+  }
+}
