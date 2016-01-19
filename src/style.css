@@ -13,6 +13,7 @@ body, h1, h2, h3, h4 {
 
 .container {
   margin: 0px auto;
+  padding: 0 20px;
   max-width: 600px;
 }
 

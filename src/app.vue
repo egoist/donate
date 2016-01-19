@@ -20,7 +20,7 @@
 <style>
   .intro {
     background-color: #f0f0f0;
-    padding: 20px;
+    padding: 20px 0;
     margin-top: 80px;
     .site-title {
       margin-bottom: 10px;
@@ -31,8 +31,10 @@
     color: #999;
     .container {
       padding-top: 30px;
+      padding-bottom: 30px;
       border-top: 1px solid #e2e2e2;
       line-height: 28px;
+      overflow: hidden;
     }
     .heart {
       color: #F74444;
@@ -74,11 +76,11 @@
         <span class="show-payment" @click="currentPayment = 'paypal'">{{{ paypalButton }}}</span>
         <span class="show-payment" @click="currentPayment = 'wechat'">{{{ wechatPayButton }}}</span>
       </div>
-      <div class="paypal" v-if="currentPayment === 'paypal'">
+      <div class="paypal" v-show="currentPayment === 'paypal'">
         <paypal-form></paypal-form>
       </div>
       <div></div>
-      <div class="wechat" v-if="currentPayment === 'wechat'">
+      <div class="wechat" v-show="currentPayment === 'wechat'">
         <wechat-qrcode></wechat-qrcode>
       </div>
       <div class="home">
