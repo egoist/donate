@@ -14,7 +14,7 @@ Your money will make me happy, since I would know my works are helping people ou
 
 Your money will also be spent in buying coffee, cola and some other foods or drinks to make me feel energetic when coding.
 
-**Let's get hyped! it's a open-source world, so why not?**
+**Let's get hyped! it's an open-source world, so why not?**
 
 ## License
 
