@@ -14,7 +14,7 @@
 
 - [通过 Paypal](https://www.paypal.me/egoistian) (或者直接付款到帐号 0x142857@gmail.com)
 - [通过微信](http://ww4.sinaimg.cn/large/a15b4afegw1f72ib6rj67j20u00tvgnj.jpg)
-- [通过支付波](http://ww4.sinaimg.cn/large/a15b4afegw1f72ib54hybj20qo0nndh5.jpg)
+- [通过支付宝](http://ww4.sinaimg.cn/large/a15b4afegw1f72ib54hybj20qo0nndh5.jpg)
 
 ## 致谢
 
