@@ -17,6 +17,7 @@ Currently I'm making lots of front-end components, tools, Node.js libraries, web
 - [Donate via Paypal](https://www.paypal.me/egoistian) (my paypal email is 0x142857 at google's mail)
 - [Donate via Wechat](http://ww4.sinaimg.cn/large/a15b4afegw1f72ib6rj67j20u00tvgnj.jpg)
 - [Donate via Alipay](http://ww4.sinaimg.cn/large/a15b4afegw1f72ib54hybj20qo0nndh5.jpg)
+- Donate via Bitcoin: 1NUSDCWti9FBJLiUxaLY1zJnwcSDc5Tfci
 
 ## Thanks
 
