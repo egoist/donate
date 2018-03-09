@@ -6,7 +6,7 @@
 
 I'm a freelancer living in Chengdu, China. I mostly do front-end and Node.js stuffs and love them 💕
 
-Currently I'm making lots of front-end components, tools, Node.js libraries, websites and apps to help people solve problems, if you enjoy my works please consider making a donation. If you are not available for this, that's fine, since OSS is great and I love it naturally.
+Currently I'm making lots of front-end components, tools, Node.js libraries, websites and apps to help people solve problems, if you enjoy my works please consider making a donation. My ultimate goal is to become a full-time open-source ninja.
 
 ## Monthly support
 
