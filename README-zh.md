@@ -8,7 +8,11 @@
 
 ## 每月捐赠
 
-[通过 Patreon 捐赠](https://www.patreon.com/egoist) (周期性的，每月一次，你可以随时取消)
+<a href="https://patreon.com/egoist">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
+</a>
+
+周期性的，每月一次，你可以随时取消。
 
 ## 一次性捐赠
 
