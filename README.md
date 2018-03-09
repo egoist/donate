@@ -10,7 +10,9 @@ Currently I'm making lots of front-end components, tools, Node.js libraries, web
 
 ## Monthly support
 
-[Pledging on Patreon](https://www.patreon.com/egoist) (recurring, with perks for different tiers, you can cancel at any time)
+<a href="https://patreon.com/egoist">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
+</a>
 
 ## One-time donation
 
