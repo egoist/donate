@@ -8,7 +8,9 @@ I'm a freelancer living in Chengdu, China. I mostly do front-end and Node.js stu
 
 Currently I'm making lots of front-end components, tools, Node.js libraries, websites and apps to help people solve problems, if you enjoy my works please consider making a donation. My ultimate goal is to become a full-time open-source ninja.
 
-## Monthly support
+## Monthly support (Recommended)
+
+3 years ago I started devoting my time to open-source for fun, but things have changed a lot over time. Now I have a day job and I can't spend that much time in open-source anymore. But here's a way to work around this, which is, becoming my patron to fulfill my dream of doing full-time open-source:
 
 <a href="https://patreon.com/egoist">
 <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
